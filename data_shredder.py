@@ -4,7 +4,7 @@ class DataShredder():
         self.name = name 
 
     def terrorize(self):
-        print("Good-day WEAKLINGS, it is I, self.name")
+        print("Good-day WEAKLINGS, it is I," {self.name})
 
 class Asswhoop(DataShredder):
     def slogan(self):
